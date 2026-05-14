@@ -1,18 +1,18 @@
 # Data Warehouse and Analytics Project
 
-welcome to the **Data warehouse and Analytics project** Repository..!
-This Project Demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.Designed as a portfolio project highlights industry best practices in data analytics.
+Welcome to the **Data warehouse and Analytics project** Repository..!
+This Project Demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data analytics.
 
 ..
 ## Project Overview
 This project involves:
 
-  1. **Data Architecture:** Designing a Modern data Warehouse Using Medalion Architecture **Bronze, Silver, and Gold** layers.
+  1. **Data Architecture:** Designing a Modern data Warehouse Using **Medalion** Architecture **Bronze, Silver, and Gold** layers.
   2. **ETL Pipeline:** Extracting , Transforming and Loading data from source systems into the warehouse.
   3. **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
   4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for sctionable insights.
 
- ==>> This repository is a excellent resource for proffesionals andstudents looking to showcase expertise in:
+ ==>> This repository is a excellent resource for professionals and students looking to showcase expertise in:
   1. **SQL Development**
   2. **data Architect**
   3. **Data Engineering**
@@ -44,7 +44,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
 ### BI: Analytics & Reporting (data Analytics)
 
 ### Objective
-  Develop SQL-Sbased analytics to deliver detailed insights into:
+  Develop SQL-Based analytics to deliver detailed insights into:
   **Customer Behavior**
   **Product Performance**
   **Sales Trends**
@@ -57,8 +57,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
   This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution.
 
 ## About Me
-My Name is T RAMESH I am from Hyderabad, India. I am an aspiring data analyst with practical knowledge of SQL. This project showcases my ability to handle data, perform analysis and generate insights effectively.
-Conect with me on 
+My name is T RAMESH I am from Hyderabad, India. I am an aspiring data analyst with practical knowledge of SQL. This project showcases my ability to handle data, perform analysis and generate insights effectively.
+Connect with me on 
 **[LinkedIn](linkedin.com/in/thaveli-ramesh-b635b2195)**
 **[Gmail](rameshsagar.330@gmail.com)**
 
