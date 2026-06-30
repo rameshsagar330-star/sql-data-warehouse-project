@@ -10,16 +10,15 @@ This project involves:
   1. **Data Architecture:** Designing a Modern data Warehouse Using **Medallion** Architecture **Bronze, Silver, and Gold** layers.
   2. **ETL Pipeline:** Extracting , Transforming and Loading data from source systems into the warehouse.
   3. **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
-  4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for sctionable insights.
+  4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 
  ==>> This repository is a excellent resource for professionals and students looking to showcase expertise in:
   1. **SQL Development**
   2. **data Architect**
   3. **Data Engineering**
   4. **Data Modeling**
-  5. **Data Modeling**
-  6. **ETL Pipeline Developer**
-  7. **Data Analytics** 
+  5. **ETL Pipeline Developer**
+  6. **Data Analytics** 
 
 ## Data Architecture
 <img width="766" height="540" alt="DDA" src="https://github.com/user-attachments/assets/1b7ed3c7-5fb3-4043-91e4-8262cce07ad0" />
@@ -27,7 +26,7 @@ This project involves:
 
 ##  Project Requirements
 
-### Building The Data Werehouse (Data Engineering)
+### Building The Data Warehouse (Data Engineering)
 
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales date, enabling analytical reporting and informed decision-making.
@@ -49,7 +48,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
   **Product Performance**
   **Sales Trends**
 
-  These insights empower stakeholhers with key business metrics, anabling stratagic decision-making
+  These insights empower stakeholders with key business metrics, anabling stratagic decision-making
 
   ---
 
@@ -59,8 +58,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
 ## About Me
 My name is T RAMESH I am from Hyderabad, India. I am an aspiring data analyst with practical knowledge of SQL. This project showcases my ability to handle data, perform analysis and generate insights effectively.
 Connect with me on 
-**[LinkedIn](linkedin.com/in/thaveli-ramesh-b635b2195)**
-**[Gmail](rameshsagar.330@gmail.com)**
+**[LinkedIn](linkedin.com/in/thaveli-ramesh-b635b2195)**  **[Gmail](rameshsagar.330@gmail.com)**
 
 
 
